@@ -91,7 +91,3 @@ Because this project was structured as a 4-part sequential pipeline where any mi
 * **Logic Auditing & Debugging:** Guided classmates through tracing precedents and dependents in their workbooks to locate where cell references diverged.
 * **Demystifying Quantitative Methods:** Translated technical concepts—such as dummy variable encoding, seasonal index isolation, and Minimax Regret matrices—into clear, step-by-step logic.
 * **Supportive Problem Solving:** Fostered a "let's figure it out together" environment where peers felt comfortable asking questions and gaining confidence in their quantitative skills.
-
----
-
-## 📂 Repository Structure
