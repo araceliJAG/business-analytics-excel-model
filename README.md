@@ -1,4 +1,4 @@
-# 🍩 Strategic Operations & Quantitative Forecasting: "Donuts to Go" Decision Model
+# 🍩 Strategic Operations & Quantitative Forecasting: "Donuts to Go" Decision Model (Spring 2025)
 
 An interconnected, 4-phase quantitative business model built in Microsoft Excel to evaluate market demand, simulate production capacity constraints, and guide strategic capital expansion (Current Operations vs. Franchise Expansion vs. Mobile Food Truck Launch) under conditions of risk and uncertainty.
 
